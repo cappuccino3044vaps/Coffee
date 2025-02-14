@@ -1,0 +1,9 @@
+#dataset
+Hand_Recognizer/*.jpg
+Hand_Recognizer/*.png
+Hand_Recognizer/*.jpeg
+*.png
+*.jpg
+*.jpeg
+
+
